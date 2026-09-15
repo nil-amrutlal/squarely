@@ -34,12 +34,6 @@ npx serve .
 | `og-image.png`   | Social/link preview image                             |
 | `robots.txt`     | Search-engine crawling rules                           |
 | `sitemap.xml`    | Search-engine sitemap                                  |
-| `DEPLOY.md`      | Step-by-step publishing instructions (Cloudflare Pages) |
-
-## Publishing
-
-See [`DEPLOY.md`](./DEPLOY.md) for how to put this live on Cloudflare Pages (or
-any other static host) and turn on free traffic analytics.
 
 ## Tech notes
 
@@ -51,5 +45,4 @@ any other static host) and turn on free traffic analytics.
 ## Before going live
 
 `index.html`, `robots.txt`, and `sitemap.xml` reference a placeholder domain
-(`https://squarely.pages.dev/`). Swap that for your real live URL once you know
-it — details in `DEPLOY.md`.
+(`https://squarely.pages.dev/`). Swap that for your real live URL once you know it.
