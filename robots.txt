@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://squarely.pages.dev/sitemap.xml
+Sitemap: https://squarely.nil-amrutlal-dev.workers.dev/sitemap.xml
